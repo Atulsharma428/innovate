@@ -1,0 +1,27 @@
+
+
+.big-font {
+    font-size: 50px !important;
+    font-weight: bold;
+    color: #ffb49a;
+}
+
+.medium-font {
+    font-size: 30px !important;
+    color: #7e84cb;
+    /* color: #05172e; */
+}
+
+.small-font {
+    font-size: 20px !important;
+    color: #aadbe9;
+}
+/* Ensure the option menu spans the entire width of the page */
+.full-width-container .nav-item {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.full-width-container .nav-link {
+    width: 100%;
+}
